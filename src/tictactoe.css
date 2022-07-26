@@ -1,0 +1,9 @@
+.tic {
+  margin: 0;
+  background-color: #efefef;
+  font-family: "Montserrat", sans-serif;
+  height: 90vh;
+}
+.tic > h1 {
+  text-align: center;
+}
